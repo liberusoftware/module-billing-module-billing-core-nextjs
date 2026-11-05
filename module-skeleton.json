@@ -1,0 +1,15 @@
+{
+  "repository": "module-billing-module-billing-core-nextjs",
+  "capabilityKey": "planned:billing:module-billing-core",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-billing-module-billing-core-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/billing/nextjs/module-billing-core.md",
+  "presentationPlan": "projects/billing/nextjs/module-billing-core.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "billing"
+  ]
+}
